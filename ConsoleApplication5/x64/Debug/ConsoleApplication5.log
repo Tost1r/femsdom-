@@ -1,2 +1,0 @@
-﻿  ConsoleApplication5.cpp
-C:\Users\m.roy\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(70,19): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
